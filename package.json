@@ -1,0 +1,21 @@
+{
+    "name": "prez-form",
+    "private": true,
+    "version": "0.0.0",
+    "type": "module",
+    "scripts": {
+        "dev": "vite",
+        "build": "vite build",
+        "preview": "vite preview"
+    },
+    "dependencies": {
+        "@describo/crate-builder-component": "^0.26.1",
+        "vue": "^3.2.45"
+    },
+    "devDependencies": {
+        "@vitejs/plugin-vue": "^4.1.0",
+        "autoprefixer": "^10.4.14",
+        "vite": "^4.2.1",
+        "vite-plugin-commonjs": "^0.6.2"
+    }
+}
